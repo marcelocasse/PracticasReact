@@ -1,0 +1,8 @@
+{
+    "productos" : [
+        { "id": 1, "codigo": "Dell", "nombre": "Dell", "marca": "Dell", "descripcion": "Computadora Dell", "imagen": "dell.webp", "precio": 500000 },
+        { "id": 2, "codigo": "Lenovo", "nombre": "Lenovo", "marca": "Lenovo", "descripcion": "Computadora Lenovo", "imagen": "Lenovo.webp", "precio": 500000 },
+        { "id": 3, "codigo": "SonyV", "nombre": "Sony Vaio", "marca": "Sony", "descripcion": "Computadora Sony Vaio", "imagen": "Sony_vaio.webp", "precio": 500000 },
+        { "id": 4, "codigo": "Reloj", "nombre": "Reloj", "marca": "Garmin", "descripcion": "Smartwatch", "imagen": "reloj.png", "precio": 500000 }
+    ]
+}

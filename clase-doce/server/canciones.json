@@ -1,0 +1,16 @@
+{
+  "canciones": [
+    {
+      "id": 2,
+      "nombre": "Time",
+      "artista": "Pink Foyd",
+      "genero": "Rock"
+    },
+    {
+      "id": 4,
+      "nombre": "Giros",
+      "artista": "Fito Paez",
+      "genero": "Pop"
+    }
+  ]
+}
